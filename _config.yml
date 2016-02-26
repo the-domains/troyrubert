@@ -1,4 +1,4 @@
-name: 'TroyRubert '
+name: "Troy Rubert's Thoughts"
 favicon: null
 layout_spectrum: 0.1455424
 typography_spectrum: 0.5655209
@@ -37,5 +37,5 @@ color:
   brandStrength: 1
   lightness: 1
   saturation: 1
-  rhythmicContrast: 0.7824919
+  rhythmicContrast: 1
 purpose: []
