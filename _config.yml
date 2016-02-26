@@ -1,14 +1,7 @@
-color:
-  saturation: 1
-  brandStrength: 1
-  rhythmicContrast: 0.7824919
-  brandColors:
-    - '#FFFFFF'
-    - '#CFCFCE'
-    - '#8891A3'
-    - '#42424B'
-    - '#171727'
-  lightness: 1
+name: 'TroyRubert '
+favicon: null
+layout_spectrum: 0.1455424
+typography_spectrum: 0.5655209
 collections:
   - index:
       path: /
@@ -21,6 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.1455424
-typography_spectrum: 0.5655209
-name: 'TroyRubert '
+title: "Troy Rubert's Thoughts"
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: '58055580'
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CFCFCE'
+    - '#8891A3'
+    - '#42424B'
+    - '#171727'
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0.7824919
+purpose: []
