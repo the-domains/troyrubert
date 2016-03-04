@@ -4,7 +4,7 @@
         <description><![CDATA[Troy Rubert's Thoughts]]></description>
         <link>http://grid.troyrubert.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 18:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 20:32:43 GMT</lastBuildDate>
         <atom:link href="http://grid.troyrubert.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[SpaceX launch aborted due to last-minute fueling snag]]></title>
@@ -19,6 +19,13 @@
             <link>urn:uuid:22c13bfe-543f-4d58-8ba7-d26f5f49443f</link>
             <guid isPermaLink="false">12617ad0-4269-49c4-95f2-b181cb6dc420</guid>
             <pubDate>Fri, 26 Feb 2016 16:01:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Testing this out]]></title>
+            <description><![CDATA[<article><h1>Testing this out</h1><p>Move over here to see what this does</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5cf610fc-fe5e-4e93-bf64-68ffb3428efe.jpg"></article>]]></description>
+            <link>http://grid.troyrubert.com/testing-this-out/index.html</link>
+            <guid isPermaLink="false">399fc85d-ede1-4aa8-a8d8-c37d396d5d00</guid>
+            <pubDate>Fri, 04 Mar 2016 20:29:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Every Noise at Once]]></title>
