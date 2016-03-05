@@ -4,7 +4,7 @@
         <description><![CDATA[Troy Rubert's Thoughts]]></description>
         <link>http://grid.troyrubert.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 20:32:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 01:25:53 GMT</lastBuildDate>
         <atom:link href="http://grid.troyrubert.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[SpaceX launch aborted due to last-minute fueling snag]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Fri, 26 Feb 2016 16:01:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Best navy movies]]></title>
+            <description><![CDATA[<article><h1>Best navy movies</h1><p>No surprise: with great heat, I'm instinctively drawn to the water, and preferably the sea. Fueled by this seemingly ever-present longing these days, I decided to explore the rich sub-genre of Navy movies. Throughout history, sea power has shaped the power of nations in wartime and in peace, with the Royal Navy's critical role in building the British Empire an obvious example.</p></article>]]></description>
+            <link>http://grid.troyrubert.com/best-navy-movies/index.html</link>
+            <guid isPermaLink="false">44658307-2c0f-4f77-bd74-f27e69279d36</guid>
+            <pubDate>Sat, 05 Mar 2016 01:25:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Testing this out]]></title>
-            <description><![CDATA[<article><h1>Testing this out</h1><p>Move over here to see what this does</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5cf610fc-fe5e-4e93-bf64-68ffb3428efe.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Testing this out</h1><p>Move over here to see what this does</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b5f5943377e50e89d749f805c0e2e5c724c381c.jpg"></article>]]></description>
             <link>http://grid.troyrubert.com/testing-this-out/index.html</link>
             <guid isPermaLink="false">399fc85d-ede1-4aa8-a8d8-c37d396d5d00</guid>
             <pubDate>Fri, 04 Mar 2016 20:29:16 GMT</pubDate>
