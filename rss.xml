@@ -4,7 +4,7 @@
         <description><![CDATA[Troy Rubert's Thoughts]]></description>
         <link>http://grid.troyrubert.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 19:53:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 19:53:55 GMT</lastBuildDate>
         <atom:link href="http://grid.troyrubert.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[SpaceX launch aborted due to last-minute fueling snag]]></title>
@@ -19,6 +19,13 @@
             <link>urn:uuid:22c13bfe-543f-4d58-8ba7-d26f5f49443f</link>
             <guid isPermaLink="false">12617ad0-4269-49c4-95f2-b181cb6dc420</guid>
             <pubDate>Fri, 26 Feb 2016 16:01:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Philosophers cried because philosophy is dead]]></title>
+            <description><![CDATA[<article><h1>Philosophers cried because philosophy is dead</h1><p>Why are so many smart people such idiots about philosophy? - Quartz</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c38a71f6027400cea4a1b33627130ec4896bcd59.jpg"></article>]]></description>
+            <link>http://grid.troyrubert.com/philosophers-cried-because-philosophy-is-dead/index.html</link>
+            <guid isPermaLink="false">b44136fe-6b7c-43da-9fda-d5f3e5ffbff7</guid>
+            <pubDate>Sat, 05 Mar 2016 19:53:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Harvard shield to be changed because its racist ]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>From the Earth to Mars in just 30 minutes. </h1><p>Forget three days, now physicist behind radical laser propulsion system explains how we... - Daily Mail</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/759742dfce6d7c1afa13b54d75102c67a19f0555.jpg"></article>]]></description>
             <link>http://grid.troyrubert.com/from-the-earth-to-mars-in-just-30-minutes/index.html</link>
             <guid isPermaLink="false">5dfb6953-d6fe-4c3d-84c6-ed89c111e0e4</guid>
-            <pubDate>Fri, 26 Feb 2016 21:45:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Would you wait in line to reserve a car. ]]></title>
-            <description><![CDATA[<article><h1>Would you wait in line to reserve a car. </h1><p>Tesla Model 3: stores are expecting waiting lines to reserve the car on March 31st - Electrek</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f84c57cbfb786dec296a281af8311bbb8fe0e368.jpg"></article>]]></description>
-            <link>http://grid.troyrubert.com/would-you-wait-in-line-to-reserve-a-car/index.html</link>
-            <guid isPermaLink="false">21647714-ea96-4237-abeb-7cba6e9f4f23</guid>
             <pubDate>Fri, 26 Feb 2016 21:45:03 GMT</pubDate>
         </item>
     </channel>
